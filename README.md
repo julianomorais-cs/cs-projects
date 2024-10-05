@@ -6,12 +6,12 @@ O "cs-projects" foi criado para compartilhar os projetos que serão desenvolvido
 Desta forma, você poderá acompanhar minha trajetória acadêmcia e também testar os projetos que serão compartilhados aqui.
 
 ## Disciplinas do 1o. Semestre 🚀
-. Banco de Dados I: ferramenta -> MySQL Workbench 8.0 CE
-. Matemática para Computação: https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
-. Introdução à Ciência da Computação: 
-. Organização e Arquitetura de Computadores:
-. Pensamento Computacional e Resolução de Problemas: ferramentas -> Visual Studio Coden, Python
-. Bootcamp I: ferramentas -> Google Workspace, Git/Github
+# Banco de Dados I: ferramenta -> MySQL Workbench 8.0 CE
+# Matemática para Computação: https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
+# Introdução à Ciência da Computação: 
+# Organização e Arquitetura de Computadores:
+# Pensamento Computacional e Resolução de Problemas: ferramentas -> Visual Studio Coden, Python
+# Bootcamp I: ferramentas -> Google Workspace, Git/Github
 
 Para rodar os projetos, você precisará instalar as funcionalidades e ferramentas apresentadas acima.
 
