@@ -15,4 +15,7 @@ Desta forma, você poderá acompanhar minha trajetória acadêmcia e também tes
 
 Para rodar os projetos, você precisará instalar as funcionalidades e ferramentas apresentadas acima.
 
+Obrigado por acompanhar minha jornada!
 
+Juliano Morais 
+juliano.morais@sempreceub.com
