@@ -13,7 +13,7 @@ Desta forma, você poderá acompanhar minha trajetória acadêmcia e também tes
 - Pensamento Computacional e Resolução de Problemas: ferramentas -> Visual Studio Code (https://code.visualstudio.com/), Python (https://www.jetbrains.com/pycharm/)
 - Bootcamp I: ferramentas -> Google Workspace (https://workspace.google.com/intl/pt-BR/), Git (https://git-scm.com/), Github (https://github.com/)
 
-Para rodar os projetos, você precisará instalar as funcionalidades e ferramentas apresentadas acima.
+x-x -> Para rodar os projetos, você precisará instalar as funcionalidades e ferramentas apresentadas acima.
 
 Obrigado por acompanhar minha jornada!
 
