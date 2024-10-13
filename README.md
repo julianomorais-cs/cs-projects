@@ -3,7 +3,7 @@ Olá! 👋 Seja bem-vindo/a ao repositório "cs-projects". Estou muito feliz em 
 
 ## Sobre o Projeto 💡
 O "cs-projects" foi criado para compartilhar os projetos que serão desenvolvidos, por mim, em disciplinas do curso de graduação em Ciência da Computação, do Uniceub. 
-Desta forma, você poderá acompanhar minha trajetória acadêmcia e também testar os projetos que serão compartilhados aqui.
+Desta forma, você poderá acompanhar minha trajetória acadêmcia, e também testar/dar feedback sobre os projetos que serão compartilhados aqui.
 
 ## 1o. Semestre 🚀
 - Banco de Dados I: ferramenta -> MySQL Workbench 8.0 CE (https://www.mysql.com/products/workbench/)
