@@ -18,4 +18,4 @@ x-x -> Para rodar os projetos, você precisará instalar as funcionalidades e fe
 Obrigado por acompanhar minha jornada!
 
 Juliano Morais 
-<juliano.morais@sempreceub.com>
+#juliano.morais@sempreceub.com#
