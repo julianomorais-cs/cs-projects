@@ -13,9 +13,10 @@ Desta forma, você poderá acompanhar minha trajetória acadêmcia, e também te
 - Pensamento Computacional e Resolução de Problemas: [Projetos Phyton](https://github.com/KerubinSM5/Pensamento-Computacional) por **Kelvin Martins**  
 - Bootcamp I:
 
-# Estudos adicionais:  
+### Estudos adicionais:  
 - Não deixem de acessar a [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)
 
+### Ferramentas:
 x-x -> Para rodar os projetos, você precisará instalar as funcionalidades e ferramentas apresentadas, a seguir:
 - [MySQL Workbench 8.0 CE](https://www.mysql.com/products/workbench/)
 - [Visual Studio Cod](https://code.visualstudio.com/) 
