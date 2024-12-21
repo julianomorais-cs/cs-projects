@@ -24,8 +24,8 @@ Desta forma, você poderá acompanhar minha trajetória acadêmcia, e também te
 x-x -> Para rodar os projetos, você precisará instalar as funcionalidades e ferramentas apresentadas, a seguir:
 - [MySQL Workbench 8.0 CE](https://www.mysql.com/products/workbench/)
 - [Visual Studio Cod](https://code.visualstudio.com/) 
-- [Python]([url](https://www.jetbrains.com/pycharm/)
-- [Google Workspace]([url](https://workspace.google.com/intl/pt-BR/)
+- [Python](https://www.jetbrains.com/pycharm/)
+- [Google Workspace](https://workspace.google.com/intl/pt-BR/)
 - [Git](https://git-scm.com/): [Git e GitHub para Iniciantes](https://willianjusten.com.br/) **Willian Justen**
 - [Github](https://github.com/): [Git e GitHub para Iniciantes](https://willianjusten.com.br/) **Willian Justen**
 
