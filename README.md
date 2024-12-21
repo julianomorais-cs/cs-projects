@@ -7,7 +7,7 @@ Desta forma, você poderá acompanhar minha trajetória acadêmcia, e também te
 
 ## 1o. Semestre: 🚀
 - Banco de Dados I
-- Matemática para Computação: [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) Lehman et al., 2018, [Thanos Tsouanas](https://www.tsouanas.org/teaching/fmc1/2023.2/)  
+- Matemática para Computação: [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf), **Lehman et al., 2018**; [Thanos Tsouanas](https://www.tsouanas.org/teaching/fmc1/2023.2/)  
 - Introdução à Ciência da Computação: [Danilo Medeiros Eler](https://daniloeler.github.io/teaching/ICC2020/index.html), [Ciência da Computação: Uma Visão Abrangente](https://www.amazon.com.br/Ci%C3%AAncia-Computa%C3%A7%C3%A3o-Uma-Vis%C3%A3o-Abrangente/dp/8582600305/ref=sr_1_3?dib=eyJ2IjoiMSJ9.uFa717aeKPsoZqNa-dgKoKHFrZWeSweQaX0zZadPCqZVJkW48WYm-6qfvyX1tAKM6inIyQ8lbEVMWyYCHYMyg6Og7RgwgYpjP_hv9AvkmtnD6AQ8ULGx4ZoxSwANxJO7i3PIBKMsrWfQOAwrQdtjc4SWhdwQXBPurBdiYp2aHFRr0auGecOAahWnj-1JGCOMUbA4u4QM_npMoGxrcr2i4OTKAG1donY4Tj64lnQDTQo.GdWc9HphLsah6ql8B_0JXd6LmM0EY8IxWQK5LDMELsM&dib_tag=se&keywords=introducao+a+ciencia+da+computacao&qid=1734799288&s=books&sr=1-3&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74) 
 - Organização e Arquitetura de Computadores
 - Pensamento Computacional e Resolução de Problemas: ferramentas 
