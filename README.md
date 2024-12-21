@@ -13,10 +13,10 @@ Desta forma, você poderá acompanhar minha trajetória acadêmcia, e também te
 - Pensamento Computacional e Resolução de Problemas: [Projetos Phyton](https://github.com/KerubinSM5/Pensamento-Computacional) por **Kelvin Martins**  
 - Bootcamp I:
 
-### Estudos adicionais:  
+#### Estudos adicionais:  
 - Não deixem de acessar a [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)
 
-### Ferramentas:
+#### Ferramentas:
 x-x -> Para rodar os projetos, você precisará instalar as funcionalidades e ferramentas apresentadas, a seguir:
 - [MySQL Workbench 8.0 CE](https://www.mysql.com/products/workbench/)
 - [Visual Studio Cod](https://code.visualstudio.com/) 
@@ -34,21 +34,8 @@ x-x -> Para rodar os projetos, você precisará instalar as funcionalidades e fe
 - Engenharia de Software:
 - Programação Orientada a Objetos:	
 
-# Estudos adicionais: 
--
 
-
-x-x -> Para rodar os projetos, você precisará instalar as funcionalidades e ferramentas apresentadas, a seguir:
-- [MySQL Workbench 8.0 CE](https://www.mysql.com/products/workbench/)
-- [Visual Studio Cod](https://code.visualstudio.com/) 
-- [Python](https://www.jetbrains.com/pycharm/)
-- [Google Workspace](https://workspace.google.com/intl/pt-BR/)
-- [Git](https://git-scm.com/): [Git e GitHub para Iniciantes](https://willianjusten.com.br/) **Willian Justen**
-- [Github](https://github.com/): [Git e GitHub para Iniciantes](https://willianjusten.com.br/) **Willian Justen**
-
-Obrigado por acompanhar minha jornada! ✨
-
-Juliano Morais 
+Sucesso em sua jornada! ✨
 
 <h2 align="left">Conecte-se comigo:</h2>
 <p align="left">
