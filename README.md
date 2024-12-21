@@ -15,6 +15,7 @@ Desta forma, você poderá acompanhar minha trajetória acadêmcia, e também te
 
 #### - Estudos adicionais:  
 - Não deixem de acessar a [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)
+- [NetLogo](https://ccl.northwestern.edu/netlogo/index.shtml) - a multi-agent programmable modeling environment - [GitHub NetLogo}(https://github.com/NetLogo/NetLogo)
 
 #### - Ferramentas:
 Para rodar os projetos, você precisará instalar as funcionalidades e ferramentas apresentadas, a seguir:
