@@ -22,7 +22,7 @@ Desta forma, você poderá acompanhar minha trajetória acadêmcia, e também te
 - Programação Orientada a Objetos	
 
 x-x -> Para rodar os projetos, você precisará instalar as funcionalidades e ferramentas apresentadas, a seguir:
-- MySQL Workbench 8.0 CE (https://www.mysql.com/products/workbench/)
+- [MySQL Workbench 8.0 CE (https://www.mysql.com/products/workbench/)]
 - Visual Studio Code (https://code.visualstudio.com/) 
 - Python (https://www.jetbrains.com/pycharm/)
 - Google Workspace (https://workspace.google.com/intl/pt-BR/),
