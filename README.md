@@ -2,7 +2,7 @@
 Olá! 👋 Seja bem-vindo/a ao repositório "cs-projects". Estou muito feliz em tê-lo/a por aqui! 😄
 
 ## Sobre o Projeto: 💡
-O "cs-projects" foi criado para compartilhar materiais de estudo para o curso de graduação em Ciência da Computação. 
+O "cs-projects" foi criado para compartilhar materiais utilizados para minha formação no curso de graduação em Ciência da Computação, na Centro Universitário de Brasília (UniCEUB). 
 Desta forma, você poderá acompanhar minha trajetória acadêmcia, e também testar e dar feedback sobre os conteúdos, materiais e links que serão compartilhados aqui.
 
 ## 1o. Semestre: 🚀
